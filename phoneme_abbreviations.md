@@ -10,32 +10,32 @@ Place: possible places of articulation are bilabial (b), labiodental (l), interd
 Manner: possible manners are stop (s), nasal stop (n), fricative (f), affricate (a), approximant (p).
 
 For each Middle English consonant, the IPA symbol is given below, followed by the assigned abbreviation:
--p: nbs
--b: vbs
--m: vbn
--f: nlf
--v: vlf
--θ: nif
--ð: vif
--t: nas
--d: vas
--n: van
--s: naf
--z: vaf
--l: lap
--r: rap
--ʃ: vef 
--tʃ: nea
--dʒ: vea
--k: nvs
--g: vvs
--ŋ: vvn
--ç: npf
--x: nvf
--ɣ: vvf
--h: ngf
--j: gpp
--w: gvp
+- p: nbs
+- b: vbs
+- m: vbn
+- f: nlf
+- v: vlf
+- θ: nif
+- ð: vif
+- t: nas
+- d: vas
+- n: van
+- s: naf
+- z: vaf
+- l: lap
+- r: rap
+- ʃ: vef 
+- tʃ: nea
+- dʒ: vea
+- k: nvs
+- g: vvs
+- ŋ: vvn
+- ç: npf
+- x: nvf
+- ɣ: vvf
+- h: ngf
+- j: gpp
+- w: gvp
 
 ## Non-Phoneme Characters Impacting Pronunciation
 
