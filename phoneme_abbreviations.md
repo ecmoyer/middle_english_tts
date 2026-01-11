@@ -1,4 +1,4 @@
-# Guide to Abbreviations Used for Phonemes and Special Characters
+# Guide to Abbreviations Used for Phonemes
 
 ## Vowels
 ### Monophthongs
@@ -67,8 +67,6 @@ For each Middle English consonant, the IPA symbol is given below, followed by th
 - h: ngf
 - j: gpp
 - w: gvp
-
-## Non-Phoneme Characters Impacting Pronunciation
 
 ## References
 The characteristics of Middle English vowels and consonants given here are from *The English Language: A Linguistic History*, by Laurel J. Brinton and Leslie K. Arnovick (3rd edition, published 2017 by Oxford University Press, p. 267 and 272).
